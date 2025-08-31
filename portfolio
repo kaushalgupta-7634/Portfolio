@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+ <link rel="stylesheet" href="portfolio.css">
+<html>
+  <body>
+    <header>
+    <h1>Kaushal Gupta</h1>
+    <p>
+      Web developer  |  BCA Student   |  Software Engineer </p>
+    <nav>
+      <a href="About">About</a>
+      <a href="skills">Skills</a>
+      <a href="Project">Project</a>
+      <a href="Contact">Contact</a>
+     </header>
+    </nav>
+    <section id="about">
+      <h2 >Aboout Me</h2>
+      <div class="card">
+        <p>Hello! I am kaushal,a passionate BCA student Learning web development , data structure, and prgramming. I enjoy building projects and exploring new technologies.</p>
+      </div>
+    </section>
+    <section id="skills">
+      <h2>Skills</h2>
+      <div class ="card">
+        <ul>
+          <li>HTML,CSS,JAVAScript</li>
+          <li>JAVA,Python(BEGINEER)</li>
+          <li>DATA Structure & Algorithm</li>
+          <li>Git &GitHub</li>
+        </ul>
+      </div>
+    </section>
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="card">
+        <h3>Portfolio Website</h3>
+        <p>A personal resume website hosted on GitHub Pages.</p>
+        <a href="https://github.com/kaushalgupta-7634/kaushalgupta.git" target="-blank">View on GitHub</a>
+        
+      </div>
+      <div class="card">
+        <h3>DSA Programs</h3>
+        <p> Collection of Java programs for Data Structures & Algorithms.</p>
+      </div>
+      </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <div class="card">
+        <p>Email:<a href="kaushalgupta9640016@gamil.com">kaushalgupta9640016@gamil.com</a>
+        </p>
+      <p>GitHub:<a href=="https://github.com/kaushalgupta-7634/kaushalgupta.git" >="https://github.com/kaushalgupta-7634/kaushalgupta.git"</a></p>
+        <p>LinkedIn:<a href="" target="-blank">Linkedin.com</a></p>
+      </div>
+    </section>
+    <footer>
+      <p>@2025 Kaushal Gutpta |  All Rights Reserved </p>
+      </footer>
+    
+    
+    
+  </body>
+</html>
